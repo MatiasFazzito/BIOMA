@@ -1,16 +1,60 @@
-# React + Vite
+# BiomaBA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+_Este es un proyecto basado en la idea original de un emprendimento de dicado a la organizacion de festivales musicales open air en distintos predios con la presencia de DJ´s, merchandising de la marca y una ambientacion propia preparada por los miembros del staff, el objetivo principal es crear una web app reactiva con una breve presentacion de la marca incluyendo un ecommerce propio para el merchandising ademas de un medio de contacto entre los predios, el staff y los DJ invitados al evento aplicando un frontend react para el manejo del DOM aplicado a la estetica de la marca y un backend que permita almacenar pedidos, formularios de contacto y varias funciones futuras quer pueda tener el proyecto_
 
-Currently, two official plugins are available:
+## Comenzando 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Pre-requisitos 📋
 
-## Expanding the ESLint configuration
+_Solo necesitas Visual Studio Code, postman y MongoAtlas para poder probar todas las funciones_
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+### Instalación 🔧
+
+_Abriendo la terminal de tu VSC escribe_
+
+```
+$ git clone https://github.com/MatiasFazzito/Backend2
+```
+
+```
+$ cd ../path/al/archivo
+```
+
+```
+$ npm install
+```
+
+```
+$ npm start
+```
+
+
+## Construido con 🛠️
+
+* [ReactJS]
+
+### Dependencias 🛠️
+
+* [example](https://example.com/es/) - lorem
+
+## Contribuyendo 🖇️
+
+Por el momento el proyecto no esta abierto a contribucion pero toda sujerencia es siempre bienvenida
+
+## Versionado 📌
+
+Para el versionado del proyecto se utilizo Git, se pueden encontrar todas las versiones en el historial de github del proyecto
+
+## Autores ✒️
+
+* **Fazzito Matias** - *Trabajo Inicial y documentacion* - [MatiasFazzito](https://github.com/MatiasFazzito)
+* **Fazzito Rodrigo** - *Idea original*
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 😁
