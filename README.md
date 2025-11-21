@@ -1,6 +1,6 @@
 # BiomaBA
 
-_Este es un proyecto basado en la idea original de un emprendimento de dicado a la organizacion de festivales musicales open air en distintos predios con la presencia de DJ´s, merchandising de la marca y una ambientacion propia preparada por los miembros del staff, el objetivo principal es crear una web app reactiva con una breve presentacion de la marca incluyendo un ecommerce propio para el merchandising ademas de un medio de contacto entre los predios, el staff y los DJ invitados al evento aplicando un frontend react para el manejo del DOM aplicado a la estetica de la marca y un backend que permita almacenar pedidos, formularios de contacto y varias funciones futuras quer pueda tener el proyecto_
+_Este es un proyecto basado en la idea original de un emprendimento dedicado a la organizacion de festivales musicales open air en distintos predios con la presencia de DJ´s, merchandising de la marca y una ambientacion propia preparada por los miembros del staff, el objetivo principal es crear una web app reactiva con una breve presentacion de la marca incluyendo un ecommerce propio para el merchandising ademas de un medio de contacto entre los predios, el staff y los DJ invitados al evento aplicando un frontend react para el manejo del DOM aplicado a la estetica de la marca y un backend que permita almacenar pedidos, formularios de contacto y varias funciones futuras quer pueda tener el proyecto_
 
 ## Comenzando 🚀
 
